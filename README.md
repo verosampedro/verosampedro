@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Vero! 👋
 
-### If I had to define myself with one word...I would probably choose curious! :nerd_face: For as long as I can remember, I have always been passionate about learning new things even if it meant a challenge for me. Since I discovered web development, I not only discovered a new world full of things and challenges for me, but also my new passion (without leaving aside my fascination for videogames and movies)! :v:
+If I had to define myself with one word...I would probably choose curious! :nerd_face: For as long as I can remember, I have always been passionate about learning new things even if it meant a challenge for me. Since I discovered web development, I not only discovered a new world full of things and challenges for me, but also my new passion (without leaving aside my fascination for videogames and movies)! :v:
 
 ### About me: :computer:
 
