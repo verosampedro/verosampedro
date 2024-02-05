@@ -8,18 +8,21 @@ If I had to define myself with one word...I would probably choose curious! :nerd
 
 - 🌱 I’m currently learning HTML, CSS, SASS, JS, Vue, Java...and some more on [Factoría F5 Bootcamp.](https://github.com/FactoriaF5-Asturias)
 
-### Current stack (will continue to increase and improve): :round_pushpin:
-
-![image](https://github.com/verosampedro/verosampedro/assets/146768253/5d2786a2-e2be-462d-937b-6010398de5e3)
-![image](https://github.com/verosampedro/verosampedro/assets/146768253/da533c65-5c20-4647-b2da-74513ae3085c)
-![image](https://github.com/verosampedro/verosampedro/assets/146768253/94e76648-8426-4023-b58f-ab104a94adab)
-![image](https://github.com/verosampedro/verosampedro/assets/146768253/c9c55bf3-e055-4d15-841c-a8a52fa14cfb)
-![image](https://github.com/verosampedro/verosampedro/assets/146768253/64256624-5ef2-4b61-9ec1-b80b2c2bbcd7)
-![image](https://github.com/verosampedro/verosampedro/assets/146768253/58982f8b-7c9b-4afc-8de2-44b024cc7e19)
-![image](https://github.com/verosampedro/verosampedro/assets/146768253/93078f25-6c0d-4ead-bc0f-5c7e700358e5)
-
-
-
+<div align="left">
+    <h3>Current stack (will continue to increase and improve): :round_pushpin:</h3>
+    <div id="tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>    
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>
+    </div>
+</div>
 
 ### How to reach me: 	:mailbox:
 
