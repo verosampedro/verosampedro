@@ -21,14 +21,16 @@ If I had to define myself with one word...I would probably choose curious! :nerd
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>    
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>
     </div>
 </div>
 
 ### How to reach me: 📬
 
-verosampedro@icloud.com 
-
+- Mail: verosampedro@icloud.com
+<a href="https://linkedin.com/in/verosampedro/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
 
 
