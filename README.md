@@ -4,9 +4,10 @@
 
 If I had to define myself with one word...I would probably choose curious! :nerd_face: For as long as I can remember, I have always been passionate about learning new things even if it meant a challenge for me. Since I discovered web development, I not only discovered a new world full of things and challenges for me, but also my new passion (without leaving aside my fascination for videogames and movies)! :v:
 
-### About me: :computer:
+### About me: 🙋
 
-- 🌱 I’m currently learning HTML, CSS, SASS, JS, Vue, Java...and some more on [Factoría F5 Bootcamp.](https://github.com/FactoriaF5-Asturias)
+- 🌱 I took a Full Stack Web Development + Cloud Computing course thanks to [Factoría F5](https://github.com/FactoriaF5-Asturias) where I was able to get started in the world of programming.
+- 💻 I am currently starting in the technology sector as a Java Developer at Capgemini.
 
 <div align="left">
     <h3>Current stack (will continue to increase and improve): :round_pushpin:</h3>
@@ -24,7 +25,7 @@ If I had to define myself with one word...I would probably choose curious! :nerd
     </div>
 </div>
 
-### How to reach me: 	:mailbox:
+### How to reach me: 📬
 
 verosampedro@icloud.com 
 
