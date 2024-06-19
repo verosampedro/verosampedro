@@ -7,7 +7,7 @@ If I had to define myself with one word...I would probably choose curious! :nerd
 ### About me: 🙋
 
 - 🌱 I took a Full Stack Web Development + Cloud Computing course thanks to [Factoría F5](https://github.com/FactoriaF5-Asturias) where I was able to get started in the world of programming.
-- 💻 I am currently starting in the technology sector as a Java Developer at Capgemini.
+- 💻 I am currently starting in the technology sector as a Software Developer at Capgemini.
 
 <div align="left">
     <h3>Current stack (will continue to increase and improve): :round_pushpin:</h3>
